@@ -5,6 +5,7 @@
   },
   "functions": [
     {
+      "site": "regalis-b2b4a",
       "source": "functions",
       "codebase": "default",
       "ignore": [
